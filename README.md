@@ -3,8 +3,6 @@
                   / _)
          _.----._/ /
        /          /
-   __/ (  |  (  |
-  /__.-'|_|--|__|
 
 Above, we have the "Mountains of Raw Data," where all great data expeditions begin.
 
