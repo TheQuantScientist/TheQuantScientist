@@ -21,8 +21,8 @@ Crossing the "Bridge of Transformation," where cleansing and processing happen.
                   .-""""-.
                  /        \
                  |        |
-                 \        /       .-""""-.
-                  `-....-`       /        \
+                 \        /        .-""""-.
+                  `-....-`        /        \
                                   |        |
                                   \        / 
                                    `-....-`
