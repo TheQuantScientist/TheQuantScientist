@@ -1,17 +1,20 @@
             The Data Adventure Begins...
+```
                     __
                   / _)
          _.----._/ /
        /          /
-
+   __/ (  |  (  |
+  /__.-'|_|--|__|
+```
 Above, we have the "Mountains of Raw Data," where all great data expeditions begin.
 
 ```
-    /\         /\
-   /  \       /  \
-  /    \     /    \
- /      \   /      \
-/________\_/________\
+              /\         /\
+             /  \       /  \
+            /    \     /    \
+           /      \   /      \
+          /________\_/________\
 ```
 
 Crossing the "Bridge of Transformation," where cleansing and processing happen.
