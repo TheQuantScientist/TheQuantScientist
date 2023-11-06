@@ -1,9 +1,8 @@
-            The Data Adventure Begins...
 ```
                     __
                   / _)
          _.----._/ /
-       /          /
+       /          /         The Data Adventure Begins...
    __/ (  |  (  |
   /__.-'|_|--|__|
 ```
