@@ -5,11 +5,13 @@
        /          /
 
 Above, we have the "Mountains of Raw Data," where all great data expeditions begin.
+
        /\
       /  \      /\
      /    \    /  \
     /      \  /    \
    /________\/______\__
+   
 
 Crossing the "Bridge of Transformation," where cleansing and processing happen.
 
