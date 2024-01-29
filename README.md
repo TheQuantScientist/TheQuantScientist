@@ -9,13 +9,13 @@
 
 - 📝 I regularly write articles on [https://spiderum.com/nguoi-dung/andrewnguyen](https://spiderum.com/nguoi-dung/andrewnguyen)
 
-- 💬 Ask me about **Python, R, SQL, MS Power Platform, EconFin, DeFi, Trading.**
+- 💬 Ask me about **Python, R, SQL, MS Power Platform, EconFin, DeFi, and Trading**
 
 - 📫 Reach me at **s3926339@rmit.edu.vn**
 
 - 📄 Know about my experiences [https://orcid.org/my-orcid?orcid=0009-0008-0702-743X](https://orcid.org/my-orcid?orcid=0009-0008-0702-743X)
 
-- ⚡ Fun fact **I like progressive overload and stress. I always smile !**
+- ⚡ Fun fact **I like progressive overload and stress. I always smile!**
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
