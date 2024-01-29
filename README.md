@@ -9,6 +9,8 @@
 
 - 📝 I regularly write articles on [https://spiderum.com/nguoi-dung/andrewnguyen](https://spiderum.com/nguoi-dung/andrewnguyen)
 
+- ✍️ Invited peer reviewer at [Annals of Operation Research](https://link.springer.com/journal/10479)(Q1-2024)
+
 - 💬 Ask me about **Python, R, SQL, MS Power Platform, EconFin, DeFi, and Trading**
 
 - 📫 Reach me at **s3926339@rmit.edu.vn**
