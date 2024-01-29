@@ -1,4 +1,4 @@
-<h1 align="center">Hi 👋, I'm Andrew Nguyen</h1>
+<h1 align="center">Hi 👋, I am Andrew Nguyen</h1>
 <h3 align="center">A passionate Data Scientist and AI Researcher from Vietnam</h3>
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=thequantscientist&label=Profile%20views&color=0e75b6&style=flat" alt="thequantscientist" /> </p>
@@ -6,9 +6,6 @@
 <p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=thequantscientist" alt="thequantscientist" /></a> </p>
 
 - 🔭 I’m currently working on academic research in [Stock Price Forecasting](https://www.researchgate.net/publication/376721876_Long_Short-Term_Memory_Architectures_Towards_a_Superlative_Tech_Stock_Price_Forecasting_Model_for_Sustainable_Economic_Prosperity?_sg%5B0%5D=00OIL-uAsoJ2f7xn2JS5cJeukN0PC9_0b_QbY1xHg9f0ez0DueuNm76gabHjAx8HVNcZDPgiX3SJDdnTRRIz-1S1l9QmIwwYntj6hjA7.d4YtNDCBO7qaTZ2id01jYNGiIJHcUroc2ByMJR--Ge-GUDjxfqgO8GJN2CTAH17A5nQAcM3vCJv6iv4wanEcIw&_tp=eyJjb250ZXh0Ijp7ImZpcnN0UGFnZSI6InB1YmxpY2F0aW9uIiwicGFnZSI6InByb2ZpbGUiLCJwcmV2aW91c1BhZ2UiOiJwcm9maWxlIiwicG9zaXRpb24iOiJwYWdlQ29udGVudCJ9fQ) at [NeuroneLab](https://www.researchgate.net/lab/NeuroneLab-Anh-Q-Nguyen), RMIT University Vietnam
-
-
-
 
 - 📝 I regularly write articles on [https://spiderum.com/nguoi-dung/andrewnguyen](https://spiderum.com/nguoi-dung/andrewnguyen)
 
@@ -18,7 +15,7 @@
 
 - 📄 Know about my experiences [https://orcid.org/my-orcid?orcid=0009-0008-0702-743X](https://orcid.org/my-orcid?orcid=0009-0008-0702-743X)
 
-- ⚡ Fun fact **I like progressive overload and stress. I always smile!**
+- ⚡ Fun fact: **I am an ex-athlete that enjoys progressive overload and stress. I always smile!**
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
