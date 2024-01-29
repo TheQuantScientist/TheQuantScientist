@@ -2,7 +2,9 @@ Anh Q. Nguyen (Andrew Nguyen)
 🌍 Based in Vietnam & Australia
 
 📚 Education:
+
 Undergraduate in Economics and Finance, RMIT Vietnam
+
 IELTS Band 7.0, IDP Education
 Holder of Seven Cambridge English Qualifications, Cambridge Main Suite
 Finalist in TOEFL, Educational Testing Service
