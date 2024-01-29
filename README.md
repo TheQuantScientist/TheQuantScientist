@@ -1,5 +1,5 @@
 <h1 align="center">Hi 👋, I'm Andrew Nguyen</h1>
-<h3 align="center">A passionate Data Scientist from Vietnam</h3>
+<h3 align="center">A passionate Data Scientist and Business Analyst from Vietnam</h3>
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=thequantscientist&label=Profile%20views&color=0e75b6&style=flat" alt="thequantscientist" /> </p>
 
@@ -13,7 +13,7 @@
 
 - 📫 Reach me at **s3926339@rmit.edu.vn**
 
-- 📄 Know about my experiences [https://orcid.org/my-orcid?orcid=0009-0008-0702-743X](https://orcid.org/my-orcid?orcid=0009-0008-0702-743X)
+- 📄 Know about my experiences at [https://orcid.org/my-orcid?orcid=0009-0008-0702-743X](https://orcid.org/0009-0008-0702-743X/print))
 
 - ⚡ Fun fact **I like progressive overload and stress. I always smile!**
 
