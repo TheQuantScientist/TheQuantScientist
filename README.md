@@ -1,5 +1,5 @@
 <h1 align="center">Hi 👋, I'm Andrew Nguyen</h1>
-<h3 align="center">A passionate Data Scientist and Business Analyst from Vietnam</h3>
+<h3 align="center">A passionate Data Scientist and AI Researcher from Vietnam</h3>
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=thequantscientist&label=Profile%20views&color=0e75b6&style=flat" alt="thequantscientist" /> </p>
 
