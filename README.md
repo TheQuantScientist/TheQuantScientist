@@ -1,48 +1,23 @@
-```
-                    __
-                  / _)
-         _.----._/ /
-       /          /   The Data Adventure Begins...
-   __/ (  |  (  |
-  /__.-'|_|--|__|
-```
-Above, we have the "Mountains of Raw Data," where all great data expeditions begin.
+Anh Q. Nguyen (Andrew Nguyen)
+🌍 Based in Vietnam & Australia
 
-```
-              /\         /\
-             /  \       /  \
-            /    \     /    \
-           /      \   /      \
-          /________\_/________\
-```
+📚 Education:
+Undergraduate in Economics and Finance, RMIT Vietnam
+IELTS Band 7.0, IDP Education
+Holder of Seven Cambridge English Qualifications, Cambridge Main Suite
+Finalist in TOEFL, Educational Testing Service
 
-Crossing the "Bridge of Transformation," where cleansing and processing happen.
+💼 Professional Experience:
+Researcher in Economics and Finance, RMIT Vietnam, Oct 2021 - Mar 2025
+Academic Consultant & CEO, SCE, Jan 2023 - Jan 2024
+Head Coach (Freelance, Linguistics), DM&C-BlackRouge Vietnam, Jan - Mar 2023
 
-                  .-""""-.
-                 /        \
-                 |        |
-                 \        /        .-""""-.
-                  `-....-`        /        \
-                                  |        |
-                                  \        / 
-                                   `-....-`
+💡 Expertise:
+Data Science (Python)
+Business Analysis (RStudio)
+Statistical Analytics (MS Power Platform)
+Public Speaking & Technical English
 
-Reaching the "Lake of Insights," reflecting the true meaning of the data.
-
-                            O
-                            |
-                          ,'~'.
-                         /     \
-                        |   ____|_
-                        |  '___,,_'         .----------------.
-                        |  ||(o |o)|       ( KDD's treasure! )
-                        |   -------         ,----------------'
-                        |  _____|         -'
-                        \  '####,
-                         -------
-                       /________\
-                      (__________)
-                      
-And finally, the "Cave of Predictive Wonders," where the treasure of knowledge-driven decision (KDD) lies.
-
-
+🏆 Achievements:
+Invited Peer Reviewer, Annals of Operations Research Journal (Q1-2024)
+Project Love Meter Winner, RMIT Showcase 2023
