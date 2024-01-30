@@ -15,7 +15,7 @@
 
 - 📄 Know about my experiences at **[ORCID](https://orcid.org/my-orcid?orcid=0009-0008-0702-743X)**
 
-- 🏈 Fun fact: **I am an ex-athlete that enjoys progressive overload and stress. I always smile!**
+- 🏈 Fun fact: **I am an ex-athlete who enjoys progressive overload and stress. I always smile!**
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
