@@ -29,6 +29,4 @@
 
 <p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=thequantscientist&show_icons=true&locale=en&layout=compact" alt="thequantscientist" /></p>
 
-<p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=thequantscientist&show_icons=true&locale=en" alt="thequantscientist" /></p>
 
-<p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=thequantscientist&" alt="thequantscientist" /></p>
