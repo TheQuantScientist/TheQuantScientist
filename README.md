@@ -13,7 +13,7 @@
 
 - 📫 Reach me at **s3926339@rmit.edu.vn**
 
-- 📄 Know about my experiences at **[SSRN]([https://papers.ssrn.com/sol3/cf_dev/AbsByAuth.cfm?per_id=6073192])**
+- 📄 Know about my experiences at **[SSRN](https://papers.ssrn.com/sol3/cf_dev/AbsByAuth.cfm?per_id=6073192)**
 
 - 🏈 Fun fact: **I am an ex-athlete who enjoys progressive overload and stress. I always smile!**
 
