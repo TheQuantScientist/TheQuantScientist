@@ -11,7 +11,7 @@
 
 - 💬 Ask me about **Python, R, SQL, MS Power Platform, EconFin, and Trading**
 
-- 📫 Reach me at **s3926339@rmit.edu.vn**
+- 📫 Reach me at **s3926339@rmit.edu.vn** or **nguyenquocanh@outlook.com.au**
 
 - 📄 Know about my experiences at **[SSRN](https://papers.ssrn.com/sol3/cf_dev/AbsByAuth.cfm?per_id=6073192)**
 
