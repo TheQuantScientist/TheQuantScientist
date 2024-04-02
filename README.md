@@ -13,7 +13,7 @@
 
 - 📫 Reach me at **s3926339@rmit.edu.vn** or **nguyenquocanh@outlook.com.au**
 
-- 📄 Know about my experiences through my **[Curriculum Vitae](https://nguyenquocanhrsc.github.io)** 
+- 📄 Know about my experiences through my **[Resume](https://nguyenquocanhrsc.github.io)** 
 
 - 🏈 Fun fact: **I am an ex-athlete who enjoys progressive overload and stress. I always smile!**
 
