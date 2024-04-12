@@ -4,8 +4,6 @@
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=thequantscientist&label=Profile%20views&color=0e75b6&style=flat" alt="thequantscientist" /> </p>
 
 - 👨🏻‍💻 I’m currently working on academic research in **[Stock Price Forecasting](https://dx.doi.org/10.2139/ssrn.4729648)** at NeuroneLab, **[RMIT University](https://www.rmit.edu.au/about/facts-figures/reputation-and-rankings)**
-  
-- 📝 I regularly write Behavioral Economic articles on **[Spiderum](https://spiderum.com/nguoi-dung/andrewnguyen)**
 
 - ✍️ Invited peer reviewer at **[Annals of Operation Research](https://link.springer.com/journal/10479)**(Q1-2024)
 
