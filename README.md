@@ -3,7 +3,7 @@
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=thequantscientist&label=Profile%20views&color=0e75b6&style=flat" alt="thequantscientist" /> </p>
 
-- 👨🏻‍💻 I’m currently working on academic research in **[Stock Price Forecasting](https://dx.doi.org/10.2139/ssrn.4729648)** at NeuroneLab, **[RMIT University](https://www.rmit.edu.au/about/facts-figures/reputation-and-rankings)**
+- 👨🏻‍💻 I’m currently working on academic research in **[Time Series Forecasting](https://dx.doi.org/10.2139/ssrn.4729648)** at NeuroneLab, **[RMIT University](https://www.rmit.edu.au/about/facts-figures/reputation-and-rankings)**
 
 - 💬 Ask me about **Python, R, SQL, MS Power Platform, EconFin, and Trading**
 
