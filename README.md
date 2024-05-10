@@ -5,8 +5,6 @@
 
 - 👨🏻‍💻 I’m currently working on academic research in **[Stock Price Forecasting](https://dx.doi.org/10.2139/ssrn.4729648)** at NeuroneLab, **[RMIT University](https://www.rmit.edu.au/about/facts-figures/reputation-and-rankings)**
 
-- ✍️ Invited peer reviewer at **[Annals of Operation Research](https://link.springer.com/journal/10479)**(Q1-2024)
-
 - 💬 Ask me about **Python, R, SQL, MS Power Platform, EconFin, and Trading**
 
 - 📫 Reach me at **s3926339@rmit.edu.vn** or **nguyenquocanh@outlook.com.au**
