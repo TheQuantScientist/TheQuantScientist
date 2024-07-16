@@ -8,7 +8,7 @@
 - 💬 Ask me about **Python, R, SQL, MS Power Platform, EconFin, and Trading**
 
 - 📫 Reach me at **s3926339@rmit.edu.vn** or **nguyenquocanh@outlook.com.au**
-- 📄 Know about my experiences through my **[Curriculum Vitae](https://thequantscientist.github.io/cv.pdf)**
+- 📄 Know about my experiences through my **[Curriculum Vitae](https://thequantscientist.github.io/nguyenquocanh.pdf)**
 
 - 🏈 Fun fact: **I am an ex-athlete who enjoys progressive overload and stress. I always smile!**
 - 👉 **[Linktree](https://linktr.ee/anhthescientist)**
