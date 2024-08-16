@@ -10,7 +10,6 @@
 - 📄 Know about my experiences through my **[Curriculum Vitae](https://thequantscientist.github.io/nguyenquocanh.pdf)**
 
 - 🏈 Fun fact: **I am an ex-athlete who enjoys progressive overload and stress. I always smile!**
-- 👉 **[Linktree](https://linktr.ee/anhthescientist)**
 <h3 align="left">Connect with me:</h3>
 <p align="left">
 <a href="https://www.linkedin.com/in/andrewfinance/" target="_blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="Andrew's LinkedIn" height="30" width="40" /></a>
