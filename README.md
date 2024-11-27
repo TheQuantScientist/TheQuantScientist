@@ -2,7 +2,8 @@
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=thequantscientist&label=Profile%20views&color=0e75b6&style=flat" alt="thequantscientist" /> </p>
 
-- 👨🏻‍💻 I’m currently working on academic research in **[Time Series Forecasting](https://papers.ssrn.com/sol3/cf_dev/AbsByAuth.cfm?per_id=6073192)** at NeuroneLab, **[RMIT University](https://www.rmit.edu.au/about/facts-figures/reputation-and-rankings)**
+- 👨🏻‍💻 I'm a Senior student at **[RMIT University](https://www.rmit.edu.au/about/facts-figures/reputation-and-rankings)**
+- 👨‍🔬 I’m currently working on academic research in **[Time Series Forecasting](https://papers.ssrn.com/sol3/cf_dev/AbsByAuth.cfm?per_id=6073192)** at **The Neurone Lab**
 - 🤖 I'm also an AI Engineer at **[Hitachi Digital Services](https://hitachids.com/)**
 - 💬 Ask me about **Python, R, SQL, MS Power Platform, EconFin, and Trading**
 
