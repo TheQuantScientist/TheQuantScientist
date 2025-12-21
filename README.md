@@ -1,6 +1,6 @@
 <p align="center">
   <a href="https://github.com/thequantscientist">
-    <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&pause=1000&color=0e75b6&center=true&vCenter=true&width=600&lines=Hi+%F0%9F%91%8B%2C+I'm+Nguyen+Quoc+Anh;An+Independent+Researcher+%F0%9F%94%8D;AI+Engineer+II+%F0%9F%A4%96;Time+Series+Enthusiast;Always+smiling+under+pressure%F0%9F%98%81+%26+progressive+overload+%F0%9F%92%AA" alt="Typing SVG" />
+    <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&pause=1000&color=0e75b6&center=true&vCenter=true&width=600&lines=Hi+%F0%9F%91%8B%2C+I'm+Nguyen+Quoc+Anh;An+Independent+Researcher+%F0%9F%94%8D;AI+Engineer+II+%F0%9F%A4%96;Time+Series+Enthusiast;Always+smiling+under+pressure%F0%9F%98%81+%26" alt="Typing SVG" />
   </a>
 </p>
 
