@@ -114,7 +114,4 @@
   <a href="https://www.sqlalchemy.org/" target="_blank" rel="noreferrer">
     <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/sqlalchemy/sqlalchemy-original.svg" alt="sqlalchemy" width="40" height="40"/>
   </a>
-  <a href="https://milvus.io/" target="_blank" rel="noreferrer">
-    <img src="https://assets.streamlinehq.com/image/private/w_300,h_300,ar_1/f_auto/v1/icons/4/milvus-1dn25w98viei98zi5wdoxl.png/milvus-b890b5z0x1e61mu5fwhbha.png?_a=DATAg1AAZAA0" alt="milvus" width="40" height="40"/>
-  </a>
 </p>
