@@ -8,62 +8,12 @@
   <img src="https://komarev.com/ghpvc/?username=thequantscientist&label=Profile%20views&color=0e75b6&style=flat" alt="thequantscientist" /> 
 </p>
 
-<div align="center">
-  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=32&duration=4000&pause=1000&color=00C4B4&center=true&vCenter=true&width=600&lines=Hi+there!+I'm+Anh+Nguyễn;Time+Series+%7C+AI%2FML+Engineer;Ex-Athlete+turned+Data+Scientist" alt="Typing SVG" />
-</div>
-
-<br/>
-
-<div align="center">
-  <img src="https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white" alt="Python"/>
-  <img src="https://img.shields.io/badge/R-276DC3?style=for-the-badge&logo=r&logoColor=white" alt="R"/>
-  <img src="https://img.shields.io/badge/SQL-4479A1?style=for-the-badge&logo=postgresql&logoColor=white" alt="SQL"/>
-  <img src="https://img.shields.io/badge/Power%20Platform-0078D4?style=for-the-badge&logo=microsoftpowerplatform&logoColor=white" alt="Power Platform"/>
-  <img src="https://img.shields.io/badge/Generative%20AI-FF6B6B?style=for-the-badge&logo=ai&logoColor=white" alt="GenAI"/>
-  <img src="https://img.shields.io/badge/Agentic%20Systems-9B59B6?style=for-the-badge&logo=robot&logoColor=white" alt="Agentic AI"/>
-</div>
-
-<br/>
-
-### 👨‍🔬 Currently working on
-Academic research in **Time Series Forecasting**  
-🔗 [My SSRN Author Page](https://papers.ssrn.com/sol3/cf_dev/AbsByAuth.cfm?per_id=6073192)
-
-### 🤖 Professional role
-**AI/ML Engineer II** @ **Hitachi Digital Services**  
-🔗 [hitachids.com](https://hitachids.com/)
-
-### 💬 Ask me about
-- Python, R, SQL
-- Microsoft Power Platform (Power BI, Power Apps, Power Automate)
-- Generative AI & LLMs
-- **Agentic AI systems** & autonomous agents
-
-### 📫 How to reach me
-<a href="mailto:anhnguyen.aiml@gmail.com">
-  <img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white" alt="Email"/>
-</a>
-
-### 📄 My full CV
-<a href="https://thequantscientist.github.io/nguyenquocanh.pdf">
-  <img src="https://img.shields.io/badge/View_CV-📄-brightgreen?style=for-the-badge&logo=adobeacrobatreader&logoColor=white" alt="CV"/>
-</a>
-
-<br/>
-
-### 🏈 Fun fact
-```text
-Ex-athlete who still believes in:
-• Progressive overload (both in gym & in life)
-• Controlled stress = growth
-• Smiling under pressure 😄💪
-
-<h3 align="left">Connect with me:</h3>
-<p align="left">
-  <a href="https://www.linkedin.com/in/andrewfinance/" target="_blank">
-    <img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="Andrew's LinkedIn" height="30" width="40" />
-  </a>
-</p>
+- 👨‍🔬 I’m currently working on academic research in **[Time Series Forecasting](https://papers.ssrn.com/sol3/cf_dev/AbsByAuth.cfm?per_id=6073192)**
+- 🤖 I'm also an AI/ML Engineer II at **[Hitachi Digital Services](https://hitachids.com/)**
+- 💬 Ask me about **Python, R, SQL, MS Power Platform, GenAI, and Agentic System**
+- 📫 Reach me at **anhnguyen.aiml@gmail.com**
+- 📄 Know about my experiences through my **[Curriculum Vitae](https://thequantscientist.github.io/nguyenquocanh.pdf)**
+- 🏈 Fun fact: **I am an ex-athlete who enjoys progressive overload and stress. I always smile!**
 
 <h3 align="left">Languages and Tools:</h3>
 <p align="left">
