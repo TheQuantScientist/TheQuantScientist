@@ -50,20 +50,10 @@
 </p>
 
 <p align="center">
+  
   <img src="https://streak-stats.demolab.com?user=TheQuantScientist&theme=tokyonight&hide_border=true" alt="GitHub streak stats" />
 </p>
 
-<p align="center">
-  <img src="https://github-readme-activity-graph.vercel.app/graph?username=TheQuantScientist&theme=tokyo-night&hide_border=true&area=true&custom_title=Contribution%20Activity" alt="GitHub contribution activity graph" />
-</p>
-
-## Featured links
-
-<p align="center">
-  <a href="https://papers.ssrn.com/sol3/cf_dev/AbsByAuth.cfm?per_id=6073192">
-    <img src="https://github-readme-stats.vercel.app/api/pin/?username=TheQuantScientist&repo=TheQuantScientist&theme=tokyonight&hide_border=true" alt="Profile repository card" />
-  </a>
-</p>
 
 ## Let's connect
 
