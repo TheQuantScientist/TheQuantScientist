@@ -55,13 +55,6 @@
 </p>
 
 
-## Let's connect
-
-<p align="center">
-  <a href="mailto:anhnguyen.aiml@gmail.com"><img src="https://img.shields.io/badge/Start%20a%20conversation-Email-0E75B6?style=for-the-badge&logo=gmail&logoColor=white" alt="Email" /></a>
-  <a href="https://thequantscientist.github.io/nguyenquocanh.pdf"><img src="https://img.shields.io/badge/Read%20my-CV-111827?style=for-the-badge&logo=readme&logoColor=white" alt="CV" /></a>
-</p>
-
 <p align="center">
   <img src="https://capsule-render.vercel.app/api?type=waving&height=110&section=footer&color=0:111827,55:16A085,100:0E75B6" alt="Footer wave" />
 </p>
