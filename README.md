@@ -22,45 +22,6 @@
 </p>
 
 ---
-
-## About me
-
-I am an **AI/ML Engineer II at [Hitachi Digital Services](https://hitachids.com/)** and an independent researcher focused on **[time series forecasting](https://papers.ssrn.com/sol3/cf_dev/AbsByAuth.cfm?per_id=6073192)**, financial machine learning, and practical AI systems.
-
-I like problems where modeling, software engineering, and product thinking meet: turning messy data into reliable forecasts, useful assistants, automated workflows, and decision-support tools that people can actually trust.
-
-- Currently researching: **time series forecasting, financial ML, and applied econometrics**
-- Currently building: **GenAI apps, agentic systems, data products, and ML services**
-- Ask me about: **Python, R, SQL, Microsoft Power Platform, GenAI, and AI engineering**
-- Personal operating mode: **progressive overload, pressure-tested work, and a smile**
-
-## What I work on
-
-<table>
-  <tr>
-    <td width="50%" valign="top">
-      <h3>Research</h3>
-      <p>Forecasting, quantitative modeling, statistical learning, and reproducible experiments for time-dependent data.</p>
-      <p><a href="https://papers.ssrn.com/sol3/cf_dev/AbsByAuth.cfm?per_id=6073192"><strong>Explore my SSRN research -&gt;</strong></a></p>
-    </td>
-    <td width="50%" valign="top">
-      <h3>Engineering</h3>
-      <p>AI services, GenAI workflows, model APIs, dashboards, automation, and production-minded data systems.</p>
-      <p><a href="https://thequantscientist.github.io/nguyenquocanh.pdf"><strong>View my CV -&gt;</strong></a></p>
-    </td>
-  </tr>
-  <tr>
-    <td width="50%" valign="top">
-      <h3>Applied AI</h3>
-      <p>LLM-powered tools, retrieval workflows, agents, evaluation loops, and human-in-the-loop AI experiences.</p>
-    </td>
-    <td width="50%" valign="top">
-      <h3>Data Products</h3>
-      <p>Python/R analytics, SQL pipelines, Power Platform solutions, notebooks, reports, and decision-support interfaces.</p>
-    </td>
-  </tr>
-</table>
-
 ## Tech stack
 
 <p align="center">
