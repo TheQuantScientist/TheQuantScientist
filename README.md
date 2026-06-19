@@ -45,7 +45,6 @@
 ## GitHub pulse
 
 <p align="center">
-  <img height="175" src="https://github-readme-stats.vercel.app/api?username=TheQuantScientist&show_icons=true&theme=tokyonight&hide_border=true&rank_icon=github&include_all_commits=true" alt="GitHub stats" />
   <img height="175" src="https://github-readme-stats.vercel.app/api/top-langs/?username=TheQuantScientist&layout=compact&theme=tokyonight&hide_border=true&langs_count=8" alt="Top languages" />
 </p>
 
